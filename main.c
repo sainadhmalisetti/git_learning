@@ -2,5 +2,6 @@
 int main(){
 printf("run automatically using jenkins");
 printf("after the commite editing this");
-printtf("for git diff checking");
+printf("for git diff checking");
+printf("for staged git diff purpose only");
 }

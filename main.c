@@ -11,4 +11,5 @@ printf("it is created for rebase what it will do purpose");
 printf("it is created for the reflog and recover using the reset ");
 printf("run automatically using jenkins");
 printf("this is the change to see the detached head testing in this earlier commit");
+printf("this is for the cherry pick testing");
 }
